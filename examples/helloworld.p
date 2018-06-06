@@ -1,3 +1,6 @@
+/*
+by Kenneth Brandon https://www.youtube.com/watch?v=PO3DkuWsk2Y
+*/
 #include <futurocube>
 
 main(){
